@@ -2,23 +2,30 @@
 
 Once the user created and can login to VM using Putty or Terminal using external ipaddress
 
+
 Format: ssh username@ipaddress.
+
 
 eg: `ssh dattu@10.198.34.59`
 
 
-## Install nginx web page 
+## Install nginx and setup web page 
 
 
 `sudo apt-get update`
 
+
 `sudo apt install nginx -y`
+
 
 `nginx -v`
 
+
 #install net-tools 
 
+
 `sudo apt install net-tools -y `
+
 
 #Check if nginx running in port 80
 sudo netstat -anopt | grep -i 80`
