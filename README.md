@@ -1,8 +1,8 @@
 
-Instructions to create VM in GCP [a relative link](VMsetup.md)
+[Instructions to create VM in GCP](VMsetup.md)
 
 
-SSH setup[a relative link](SSHaccess.md)
+[SSH setup](SSHaccess.md)
 
 
-Webserver setup[a relative link](Webserver.md)
+[Webserver setup](Webserver.md)
